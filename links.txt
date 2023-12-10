@@ -1,3 +1,9 @@
+# RedditNSFW list
+# Taken from r/NSFW411
+# Compiled by DuckSleazzy on 11:10am 10th Dec 2023
+# May or may not include all the NSFW subreddits. Focus of this list was to block adult content, rather than gory stuff.
+# ======================================================================================================================
+
 0.0.0.0 reddit.com/r/collegesluts
 0.0.0.0 reddit.com/r/CollegeAmateurs
 0.0.0.0 reddit.com/r/collegensfw
